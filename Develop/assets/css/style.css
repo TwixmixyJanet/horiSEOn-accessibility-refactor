@@ -67,38 +67,8 @@ p {
 }
 /* ^ HERO COVER IMAGE ^ */
 
-/* \/ BENEFITS COLUMN \/ */
-/* styling for the right side benefits column */
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-.benefit-container {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefits h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/* ^ BENEFITS COLUMN ^ */
-
 /* \/ MAIN CONTENT \/ */
-/* styling for main content */
+/* styling for main column content */
 .content {
     width: 75%;
     display: inline-block;
@@ -133,6 +103,36 @@ p {
     margin-left: 25px;
 }
 /* ^ MAIN CONTENT ^ */
+
+/* \/ BENEFITS COLUMN \/ */
+/* styling for the right side benefits column */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefit-container {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefits h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+/* ^ BENEFITS COLUMN ^ */
 
 /* \/ FOOTER \/ */
 .footer {
