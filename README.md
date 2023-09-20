@@ -1,8 +1,7 @@
 # Code Refactor Starter Code
+HoriSEOn | Social Solution Services - Code Refactor Starter Code - Module 1 Challenge
 
 ## DESCRIPTION
-
-HoriSEOn | Social Solution Services - Code Refactor Starter Code - Module 1 Challenge
 
 ### HTML: Semantic Elements / Debugging & More
 - Updated the div to be a header
@@ -13,13 +12,22 @@ HoriSEOn | Social Solution Services - Code Refactor Starter Code - Module 1 Chal
 - Updated from div to aside
 - Created a class for main content and aside content to make less calls in the CSS
 - Added intensely descriptive alt image information
-- removed a closing img tag and added closing / inside img tag
+- Removed a closing img tag and added closing / inside img tag
+- Created comments to denote changes made
 
 ### CSS: Consolidating & Reorganizing
+- Reorganized all of the selectors into groups and listed them according to proper order
+- Consolidated the main content and aside content selectors
+- Updated selectors to match the semantic elements
+- Created comments to illustrate sections of the selectors
 
 ### README.md
 
+Based this README off of the Good-README-Guide in our course content
+
 ### HoriSEOn | Social Solution Services - Website Brochure
+
+This website's utilization is to simplistically market the services of this company and it's ability to manage SEO, online reputation, and social media marketing. The company advertises that it can help with lead generation, brand awareness, and cost management.
 
 **this list may not be conclusive of all work accomplished in this challenge**
 
