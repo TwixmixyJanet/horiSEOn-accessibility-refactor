@@ -1,5 +1,7 @@
 # Code Refactor Starter Code
-HoriSEOn | Social Solution Services - Code Refactor Starter Code - Module 1 Challenge
+HoriSEOn | Social Solution Services
+<br />Code Refactor Starter Code 
+<br />Module 1 Challenge
 
 ## DESCRIPTION
 
@@ -29,7 +31,7 @@ Based this README off of the Good-README-Guide in our course content
 
 This website's utilization is to simplistically market the services of this company and it's ability to manage SEO, online reputation, and social media marketing. The company advertises that it can help with lead generation, brand awareness, and cost management.
 
-**this list may not be conclusive of all work accomplished in this challenge**
+*this list may not be conclusive of all work accomplished in this challenge*
 
 ## Table of Contents
 
