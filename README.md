@@ -2,12 +2,11 @@
 
 ## DESCRIPTION
 
-HoriSEOn | Social Solution Services - Code Refactor Starter Code 
-Module 1 Challenge
+HoriSEOn | Social Solution Services - Code Refactor Starter Code - Module 1 Challenge
 
 ### HTML: Semantic Elements / Debugging & More
-- Updated the <div> to be a <header>
-- Updated the <div> to be a <nav>
+- Updated the div to be a header
+- Updated the div to be a nav
 - 
 
 
@@ -16,6 +15,8 @@ Module 1 Challenge
 ### README.md
 
 ### HoriSEOn | Social Solution Services - Website Brochure
+
+**this is may not be conclusive of all work accomplished in this challenge**
 
 ## Table of Contents
 
