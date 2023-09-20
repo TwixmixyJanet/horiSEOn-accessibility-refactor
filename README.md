@@ -51,7 +51,7 @@ This one page website brochure can be used for any purpose it may serve. Simply 
 
 ## Credits
 
-Alfonso aka [@FenriRagni](https://github.com/FenriRagni) for trouble-shooting and walking through things with me on the east coast in the morning!
+Alonso aka [@FenriRagni](https://github.com/FenriRagni) for trouble-shooting and walking through things with me on the east coast in the morning!
 
 ## License
 
