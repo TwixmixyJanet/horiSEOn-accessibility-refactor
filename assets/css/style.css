@@ -69,13 +69,13 @@ header nav ul li {
 
 /* \/ MAIN CONTENT \/ */
 /* styling for main column content */
-.content {
+.contents {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content-container {
+.content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -84,11 +84,11 @@ header nav ul li {
     color: #ffffff;
 }
 
-.content-container img {
+.content img {
     max-height: 200px;
 }
 
-.content-container h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -117,7 +117,7 @@ header nav ul li {
     background-color: #2589bd;
 }
 
-.benefit-container {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
