@@ -30,6 +30,7 @@ Based this README off of the Good-README-Guide in our course content
 ### HoriSEOn | Social Solution Services - Website Brochure
 
 This website's utilization is to simplistically market the services of this company and it's ability to manage SEO, online reputation, and social media marketing. The company advertises that it can help with lead generation, brand awareness, and cost management.
+![test](https://bootcampspot.instructure.com/courses/4282/files/2934845/preview)
 
 *this list may not be conclusive of all work accomplished in this challenge*
 
