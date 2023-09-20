@@ -7,8 +7,13 @@ HoriSEOn | Social Solution Services - Code Refactor Starter Code - Module 1 Chal
 ### HTML: Semantic Elements / Debugging & More
 - Updated the div to be a header
 - Updated the div to be a nav
-- 
-
+- fixed URL in nav
+- Updated hero image from div to figure
+- Updated from div to main
+- Updated from div to aside
+- Created a class for main content and aside content to make less calls in the CSS
+- Added intensely descriptive alt image information
+- removed a closing img tag and added closing / inside img tag
 
 ### CSS: Consolidating & Reorganizing
 
@@ -16,7 +21,7 @@ HoriSEOn | Social Solution Services - Code Refactor Starter Code - Module 1 Chal
 
 ### HoriSEOn | Social Solution Services - Website Brochure
 
-**this is may not be conclusive of all work accomplished in this challenge**
+**this list may not be conclusive of all work accomplished in this challenge**
 
 ## Table of Contents
 
